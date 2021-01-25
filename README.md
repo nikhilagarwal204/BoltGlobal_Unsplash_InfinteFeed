@@ -2,7 +2,7 @@
 React Web App that pulls a feed from Unsplash API and shows the post information as an infinite feed
 
 ## screenshot
-![React Infinite Scroll](./DEMO_PIC.png)
+(./DEMO_PIC.png)
 
 ## Steps to Run:
 1) git clone https://github.com/nikhilagarwal204/BoltUnsplashInfinteSearch.git
