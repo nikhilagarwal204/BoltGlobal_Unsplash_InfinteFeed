@@ -1,13 +1,16 @@
 # React Infinite Scroll 
-This project creating with React hooks, and for the image is come from unsplash API.
+React Web App that pulls a feed from Unsplash API and shows the post information as an infinite feed
 
 ## screenshot
-![React Infinite Scroll](./Infinitescrool.png)
+![React Infinite Scroll](./DEMO_PIC.png)
+
+Steps to Run:
+1) git clone https://github.com/nikhilagarwal204/BoltUnsplashInfinteSearch.git
+2) cd BoltUnsplashInfinteSearch/
+3) npm install
+4) npm start
+5) Open http://localhost:3000/
 
 ## Links
-Unplash Developers : https://unsplash.com/developers <br/>
 react-infinite-scroll-component :  https://www.npmjs.com/package/react-infinite-scroll-component <br/>
 Pure CSS Loader: https://loading.io/css/ <br/>
-
-### Video Tutorial
-You can see my youtube video for this project in [here](https://youtu.be/uFuOPlOk0sQ)
